@@ -11,9 +11,6 @@ JPA Annotations
 
 
 📂 Project Structure
-bash
-Copy
-Edit
 /src/main/java/com/example/student  
     ├── client        # Main application to test CRUD operations  
     ├── model         # Student entity with Hibernate annotations  
@@ -42,9 +39,7 @@ README.md            # Project documentation
 
 🔧 Setup & Installation
 Step 1: Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/yourusername/student-hibernate-crud.git  
 cd student-hibernate-crud  
 Step 2: Configure Database
@@ -55,9 +50,7 @@ Ensure the database exists before running the application.
 
 Step 3: Run the Project
 Compile and run using Maven:
-bash
-Copy
-Edit
+
 mvn clean install  
 java -jar target/student-hibernate-crud.jar  
 📌 Example Code – Student Entity
