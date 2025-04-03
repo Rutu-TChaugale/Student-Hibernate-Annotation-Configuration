@@ -3,10 +3,9 @@ Student Management System – Hibernate (Annotation-Based) CRUD
 This project is a CRUD (Create, Read, Update, Delete) application built using Hibernate with annotation-based configuration. It manages student records in a database using Hibernate ORM. The goal is to demonstrate how to integrate Hibernate with a relational database while following best practices.
 
 🛠️ Technologies Used
-Java 8+/11
+Java 21
 Hibernate (Annotation-Based Configuration)
-MySQL/PostgreSQL (or any relational DB)
-Maven
+MySQL (or any relational DB)
 JPA Annotations
 
 
